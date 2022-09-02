@@ -10,10 +10,10 @@ updates:
     assignees:
       - Elliot Matson
     schedule:
-      interval: "daily"
+      interval: "hourly"
   - package-ecosystem: "npm"
     directory: "/"
     assignees:
       - Elliot Matson
     schedule:
-      interval: "daily"
+      interval: "hourly"
