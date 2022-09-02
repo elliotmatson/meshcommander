@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "meshcommander": ">4.16.4"
+  }
+}
