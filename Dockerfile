@@ -1,5 +1,4 @@
 FROM node:latest
-LABEL maintainer "vga101 <vga101@fsync.org>"
 
 ENV DEBIAN_FRONTEND noninteractive
 ARG MC_VERSION=unknown
