@@ -1,7 +1,7 @@
 # MeshCommander in Docker
 
 ![Lint](https://github.com/elliotmatson/meshcommander/actions/workflows/lint.yml/badge.svg)
-![Docker Build](https://github.com/elliotmatson/meshcommander/actions/workflows/docker.yml/badge.svg)
+![Docker Build](https://github.com/elliotmatson/meshcommander/actions/workflows/docker-image.yml/badge.svg)
 
 Run [MeshCommander](http://www.meshcommander.com/meshcommander) inside Docker to provide a simple way to get access to Intel
 AMT out-of-band management on Linux. MeshCommander is accessible on port 3000,
