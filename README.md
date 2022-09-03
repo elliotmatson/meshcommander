@@ -9,6 +9,6 @@ which is exposed by the container.
 
 This repository is [vga101/meshcommander](https://hub.docker.com/r/vga101/meshcommander/), but set up to update automatically with dependabot, so it should always have an updated version of meshcommander
 
-```
+```bash
 docker pull ghcr.io/elliotmatson/meshcommander:latest
 ```
